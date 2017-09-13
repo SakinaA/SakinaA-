@@ -1,7 +1,7 @@
 # SakinaA-
 <html>
   <head>
-    <title>Welcome</tittle>
+    <tittle>Welcome</tittle>
     </head>
     <body>
       <p>I start my project </p>
